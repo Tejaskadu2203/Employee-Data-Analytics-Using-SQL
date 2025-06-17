@@ -1,17 +1,18 @@
-# SQL Dashboard Project
+# Employee Data Analytics Using SQL
 
-This project includes advanced SQL queries used to generate dashboard-style insights from an employee database.
+This project includes advanced SQL queries used to generate insightful analytics from an employee database.
 
-### 🔧 Technologies Used:
+## 🛠️ Technologies Used:
 - MySQL / PostgreSQL (any SQL dialect)
 - SQL Joins, Aggregations, Subqueries, and CASE statements
 
-### 📊 Query Tasks Covered:
+## 📊 Query Tasks Covered:
 1. Total employees per department
 2. Average salary per department
-3. Department with highest total salary
-4. Employees earning more than their department's average
-5. Count of high earners per department (salary > 45000)
+3. Employees earning more than department average
+4. Department with highest salary payout
+5. Categorize salaries as High, Medium, or Low using CASE
 
-### 📁 File:
-- `sql_dashboard_project.sql`: Contains all SQL queries
+---
+
+> 📁 File: `employee_data_analysis.sql`
